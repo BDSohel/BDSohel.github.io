@@ -1,0 +1,7 @@
+.navbar-brand > img {
+  height: 100%;
+}
+.footer-logo>img{height: 50px;}
+.experience-box::before, .experience-box::after, .experience-wrap::before, .experience-wrap::after {
+  border-style: none;
+}
